@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KAYK</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="cart">Cart</string>
+    <string name="my_orders">My Orders</string>
+    <string name="Gmail_web_client_id">467496904796-qnkcblf9s7tia25bmrgp50ed9a0uqfnf.apps.googleusercontent.com</string>
+    <string name="about">In this revolutionary world, Internet keeps people connected to each other. E-commerce has changed the way of buying and selling products. People love to customize the things with their own choice. Kayk is also one of those interesting applications where people can design their own cake the way they love it. This application will let you design the 2 dimensional cakes,and let you see what it looks like from all sides. This app provides the most efficient way to contact the best bakers of your area to place your customized orders.</string>
+    <string name="help">Customer Satisfaction is our first priority.</string>
+    <string name="contact">Feel free to contact us on: kaykofficial2022@gmail.com</string>
+    <string-array name="bakeries">
+        <item>Mini Treats</item>
+        <item>Jalal Sons</item>
+        <item>Layers</item>
+        <item>Cakes &amp; Bakes</item>
+        <item>Cake Mystery</item>
+        <item> Malmo</item>
+        <item>Baba</item>
+        <item>Karamel</item>
+        <item>Baskin Robins</item>
+    </string-array>
+
+</resources>
